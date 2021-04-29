@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Emrah
 - I'm a backend developer
 - Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker 
-- Check it if you want to contact me. EMail: bagirovemrah97@gmail.com
+- Check it if you want to contact me. EMail: bagirovemrah97@gmail.com 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
