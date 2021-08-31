@@ -49,7 +49,7 @@
 <br/>
 
 [![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
-[![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <!-- [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) -->
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
