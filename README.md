@@ -39,26 +39,26 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Emrahgs)]
 
 [![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
-[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
-[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 
-[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
-[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
-[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
-[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 
 <ul>
-  <li listStyle='none'> :mortar_board: Azerbaijan Technical University </li>
-  <li> :pushpin: Information Technology </li>
+  <li listStyle='none'> :mortar_board: National Aviation Academy </li>
+  <li> :pushpin: Management </li>
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
