@@ -36,7 +36,7 @@
 
 ### Languages/Frameworks/Tools
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Emrahgs)
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 
 [![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
