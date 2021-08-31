@@ -36,24 +36,24 @@
 
 ### Languages/Frameworks/Tools
 
-[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Emrahgs)]
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/Emrahgs)
 
 [![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
-[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+<!-- [![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
 <br/>
 
-[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+<!-- [![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 
 [![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
-[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
-[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+<!-- [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) -->
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
-[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+<!-- [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
 <br/>
 
 <ul>
@@ -62,7 +62,7 @@
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
-<ul>
+<!-- <ul>
  <h3> Enjoys<h3>
  <li> Research / Astronomy / Reading </li> 
-</ul>
+</ul> -->
