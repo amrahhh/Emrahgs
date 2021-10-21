@@ -20,7 +20,7 @@
 
 
 <h1 align="center">Hi ! 👋, I'm Amrah Baghirov</h1>
-<h2 align="center" >Junior Back-End Developer </h2>
+<h2 align="center" >Back-End Developer </h2>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="mailto:bagirovemrah97@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
