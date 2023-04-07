@@ -72,6 +72,8 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <!-- [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
 [![JIRA](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![Trello](https://img.shields.io/badge/-trello-black?style=for-the-badge&logo=trello&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![Atlassian](https://img.shields.io/badge/-Atlassian-black?style=for-the-badge&logo=Atlassian&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <br/>
 
 <ul>
