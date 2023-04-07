@@ -55,6 +55,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Pytest](https://img.shields.io/badge/-Pytest-black?style=for-the-badge&logo=Pytest&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Coverage](https://img.shields.io/badge/-coverage-black?style=for-the-badge&logo=coverage&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=for-the-badge&logo=DigitalOcean&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
