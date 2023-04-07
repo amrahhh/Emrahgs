@@ -20,7 +20,7 @@
 
 
 <h1 align="center">Hi ! 👋, I'm Amrah Baghirov</h1>
-<h2 align="center" >Back-End Developer </h2>
+<h2 align="center" >Full Stack Software Engineer </h2>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="mailto:bagirovemrah97@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -40,6 +40,8 @@
 
 [![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![NumPy](https://img.shields.io/badge/-numpy-black?style=for-the-badge&logo=numpy&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <!-- [![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
 <br/>
 
@@ -51,6 +53,7 @@
 [![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
+[![VueJS](https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vuejs&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <!-- [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) -->
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <!-- [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
@@ -62,7 +65,7 @@
   <li> :earth_americas: Open Source Mind </li>
 </ul>
 
-<!-- <ul>
+<ul>
  <h3> Enjoys<h3>
- <li> Research / Astronomy / Reading </li> 
-</ul> -->
+ <li> Research / Football / Music / Reading </li> 
+</ul>
