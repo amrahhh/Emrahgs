@@ -46,8 +46,21 @@
 <br/>
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Redis/RabbitMQ](https://img.shields.io/badge/-Redis/RabbitMQ-black?style=for-the-badge&logo=Redis/RabbitMQ&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Celery](https://img.shields.io/badge/-Celery-black?style=for-the-badge&logo=Celery&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Pytest](https://img.shields.io/badge/-Pytest-black?style=for-the-badge&logo=Pytest&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+<br/>
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=for-the-badge&logo=DigitalOcean&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Gunicorn](https://img.shields.io/badge/-Gunicorn-black?style=for-the-badge&logo=Gunicorn&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![NGINX](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![AWS](https://img.shields.io/badge/-aws-black?style=for-the-badge&logo=aws&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
 <br/>
 
 [![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
@@ -57,6 +70,11 @@
 <!-- [![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) -->
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)
 <!-- [![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/Emrahgs)](https://github.com/Emrahgs)  -->
+<br/>
+[![JIRA](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![TRELLO](https://img.shields.io/badge/-trello-black?style=for-the-badge&logo=trello&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+[![Atlassian](https://img.shields.io/badge/-Atlassian-black?style=for-the-badge&logo=Atlassian&link=https://github.com/Emrahgs)](https://github.com/Emrahgs) 
+
 <br/>
 
 <ul>
